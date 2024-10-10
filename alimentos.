@@ -1,0 +1,15 @@
+{
+  "alimentos": {
+    "Pão de Queijo": 300000,
+    "Feijão Tropeiro": 250000,
+    "Moqueca": 150000,
+    "Tutu de Feijão": 200000,
+    "Frango com Quiabo": 100000,
+    "Polenta": 80000,
+    "Costela no Bafo": 60000,
+    "Arroz com Pequi": 70000,
+    "Vaca Atolada": 50000,
+    "Queijo Minas": 40000
+  },
+  "total_votos": 1000000
+}
